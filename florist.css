@@ -1,0 +1,43 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+} 
+
+li a {
+    display: block;
+}
+
+body {
+    background-color: green;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: comic sans;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+ul { font-family: verdana;font-size:25px;color:white
+}
+
+img {
+    float: right;
+    margin: 0 0 20px 15px;
+}
+a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    background: #eff;
+}
